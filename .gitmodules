@@ -1,0 +1,3 @@
+[submodule "repo-B"]
+	path = repo-B
+	url = https://github.com/JSEmbedded/repo-B.git
